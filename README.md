@@ -3,8 +3,8 @@
 
 #### Как запустить контейнеры в Docker
 
-* склонировать этот репозиторий ```git clone https://github.com/YuriyShashurin/flask_fibo_practice.git```
-* перейти в папку с ним ```cd flask_fibo_practice```
+* склонировать этот репозиторий ```git clone https://github.com/YuriyShashurin/fibo_flask_practice.git```
+* перейти в папку с ним ```cd fibo_flask_practice```
 * Установить docker и docker-compose согласно вашей ОС согласно инструкциям.(Docker - https://docs.docker.com/get-docker/ Docker-Compose - https://docs.docker.com/compose/install/)
 * Собрать образы командой в консоли```docker-compose build```
 * Запустить образы командой в консоли```docker-compose up```
